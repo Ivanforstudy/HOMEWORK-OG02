@@ -1,0 +1,1 @@
+print("FOR HOMEWORK OG 02")
